@@ -1,0 +1,8 @@
+Las imagenes de este proyecto (hero.svg, logo.svg y las de producto/)
+son ilustraciones simples generadas para que el sitio funcione
+completo de entrega. No son fotos reales de productos.
+
+Si mas adelante conseguís fotos reales de los productos, podés
+reemplazarlas manteniendo el mismo nombre de archivo (por ejemplo
+producto/llantas.svg -> producto/llantas.jpg) y ajustando el "src"
+en el HTML correspondiente.
